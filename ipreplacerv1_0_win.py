@@ -1,4 +1,4 @@
-#! /usr/bin/python3
+#! python3
 
 #Use of the fileinput module to replace strings found in a file.
 

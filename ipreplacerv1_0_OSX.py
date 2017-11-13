@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-#Use of the fileinput modeule to replace strings found in a file.
+#Use of the fileinput module to replace strings found in a file.
 
 #import modules
 import fileinput
