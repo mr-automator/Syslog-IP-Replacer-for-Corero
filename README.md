@@ -30,3 +30,9 @@ WINDOWS:
 Windows cmd prompt usage: python ipreplacerv1_0_win.py
 
 Be sure to have python 3 installed and the install folder path is added to the system environmental variable Path. Click start > type: Edit environment variables for your account > Environment variables > System Variables > Path > append entry with semicolon and location absolute folder location of python install e.g. c:\MyPythonInstall
+
+TODO:
+======================================================
+1) Insert a random function to generate a more realistic IP address octet set. 
+2) Anonymize cluster labels.
+
