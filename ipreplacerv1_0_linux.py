@@ -9,7 +9,6 @@ import re
 #Prompt user
 filename = input("Please type the full name of your input file e.g. my_syslog_file.txt:\n")
 
-variable='5'
 
 #Iterate over each line finding the first octet match with regex and replacing it with 123
 with fileinput.FileInput('./'+filename, inplace=True, backup='.bak') as file:
